@@ -293,3 +293,8 @@ C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUnive
 C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\obj\Debug\net8.0\NjalaUniversityAttendanceAPI.pdb
 C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\obj\Debug\net8.0\NjalaUniversityAttendanceAPI.genruntimeconfig.cache
 C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\obj\Debug\net8.0\ref\NjalaUniversityAttendanceAPI.dll
+C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\obj\Debug\net8.0\NjalaUniversityAttendanceAPI.sourcelink.json
+C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\bin\Debug\net8.0\MailKit.dll
+C:\Users\TIMA'S PHARMACEUCALS\Documents\NjalaUniversityAtttendanceAPI\NjalaUniversityAtttendanceAPI\bin\Debug\net8.0\MimeKit.dll

@@ -1,7 +1,10 @@
-﻿namespace NjalaUniversityAttendanceAPI.Services.Interfaces
+﻿// NjalaUniversityAttendanceAPI/Services/Interfaces/IOtpService.cs
+using System.Threading.Tasks;
+
+namespace NjalaUniversityAttendanceAPI.Services.Interfaces
 {
     public interface IOtpService
     {
-        void SendOtpEmail(string toEmail, string subject, string htmlContent);
+        Task SendOtpEmailAsync(string toEmail, string subject, string htmlContent);
     }
 }
